@@ -1,2 +1,1 @@
-# PrepCourse-Henry-2
-Este es un repositorio de prueba del repositorio Henry
+Este proyecto es una prueba de como crar un proyecto y guardarlo de manera local
