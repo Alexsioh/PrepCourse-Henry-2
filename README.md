@@ -1,1 +1,1 @@
-Este proyecto es una prueba de como crar un proyecto y guardarlo de manera local
+Este proyecto es una prueba de como crear un proyecto y guardarlo de manera local
